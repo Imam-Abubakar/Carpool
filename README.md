@@ -1,6 +1,7 @@
 # CarPool
 
 A car showcase application using Next.js 13
+<img width="947" alt="Screenshot 2023-07-16 174749" src="https://github.com/Imam-Abubakar/Carpool/assets/54324954/fbc53c0b-c935-44e9-8b45-fd2b5ddd1420">
 
 ### Things to Provide
 
